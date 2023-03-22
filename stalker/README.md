@@ -15,7 +15,7 @@ stalker is a tool designed to help the investigator find all the files related t
 
 ## Installation
 - if you want to use python version you have to download the script, the haarcascade file and manually install all the required modules. This can be nerve-racking because to have face recognition working you have to install *cmake* and *dlib* that in some cases can raise errors.
-- if you want a standalone, ready-to-go version, you can download it directly from "the release", avoiding to manually install all dependencies, virtual-environment, etc. These versions are compiled for linux x64 and windows x64 and once downloaded they carry all the necessary packages inside.
+- if you want a standalone, ready-to-go version, you can download it directly from [RELEASE SECTION](https://github.com/h3xstone/blueSide/releases/latest), avoiding to manually install all dependencies, virtual-environment, etc. These versions are compiled for linux x64 and windows x64 and once downloaded they carry all the necessary packages inside.
 
 ## Extra
 At the moment, for portability purposes, tool uses only CPU. However during tests i found that even with only 1 CPU the speed and the accuracy are acceptable.
