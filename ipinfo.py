@@ -5,7 +5,7 @@ import os.path
 import ipaddress
 
 # GLOBAL CONST
-APIKEY = ""
+APIKEY = "YOUR-PERSONAL-ABUSEIPDB-API-TOKEN-HERE"
 SCORE_TABLE = {
 				1: 'DNS Compromise',
 				2: 'DNS Poisoning',
