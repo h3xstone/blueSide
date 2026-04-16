@@ -6,3 +6,4 @@
 - **pshunter:** helps during analysis or in case of compromise to capture new or specific processes and make chosen actions. *ATM please note that in Windows the use of '-f' option with an update time less than 1sec could give problems in stopping the program with CTRL+C since "interrupt" is not correctly captured due to the too fast refresher frequency compared to the speed of access to files*.
 - **ipinfo:** automates the information collection process of malicious IPs for the reports drafting.
 - **CatchWatch:** intercept and save volatile files or files that are deleted immediately after they are created and used, during malware execution.
+- **pattern_extractor_b64:** generate blob-aligned chunks for target strings to create YARA rules.
